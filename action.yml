@@ -3,5 +3,5 @@
 name: 'Setup my environment'
 description: 'This is my reusable action'
 author: 'Kristján Oddsson'
-icon: box
+icon: 'box'
 color: orange
