@@ -10,5 +10,5 @@ runs:
   using: "composite"
   steps:
     - id: valide-package-json
-      run: npx --yes @koddsson/validate-pkg
+      run: npx --yes @koddsson/validate-pkg@latest
       shell: bash
